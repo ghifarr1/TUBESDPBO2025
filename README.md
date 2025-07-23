@@ -2,6 +2,10 @@
 
 Ini adalah proyek tugas besar untuk mata kuliah Desain dan Pemrograman Berorientasi Objek (DPBO). Game ini dibangun menggunakan bahasa Java dengan library Swing untuk GUI dan menerapkan pola arsitektur **Model-View-ViewModel (MVVM)**.
 
+## Preview Game
+![preview_game.gif](src/game_preview1.png)
+![preview_game.gif](src/game_preview2.png)
+
 ## Janji Tidak Curang
 Saya Abdurrahman Al Ghifari mengerjakan evaluasi Tugas Masa Depan dalam mata kuliah
 Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya
@@ -84,7 +88,7 @@ src/
     * Program kembali ke Menu Utama.
 
 ## Diagram Kelas (PlantUML)
-![desain_diagram.png](desain_diagram.png)
+![desain_diagram.png](src/desain_diagram.png)
 
 
 ## Cara Bermain
